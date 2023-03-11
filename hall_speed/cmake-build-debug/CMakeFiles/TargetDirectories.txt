@@ -1,0 +1,3 @@
+C:/Users/41884/CLionProjects/hall_speed/cmake-build-debug/CMakeFiles/hall_speed.elf.dir
+C:/Users/41884/CLionProjects/hall_speed/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/41884/CLionProjects/hall_speed/cmake-build-debug/CMakeFiles/rebuild_cache.dir
