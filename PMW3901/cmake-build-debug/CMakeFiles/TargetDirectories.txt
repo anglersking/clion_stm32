@@ -1,0 +1,3 @@
+C:/Users/41884/CLionProjects/PMW3901/cmake-build-debug/CMakeFiles/PMW3901.elf.dir
+C:/Users/41884/CLionProjects/PMW3901/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/41884/CLionProjects/PMW3901/cmake-build-debug/CMakeFiles/rebuild_cache.dir
